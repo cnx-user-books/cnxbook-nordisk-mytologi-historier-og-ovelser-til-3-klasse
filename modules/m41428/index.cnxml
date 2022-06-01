@@ -1,0 +1,197 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+
+<title>Nordisk mytologi - runer</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m41428</md:content-id>
+  <md:title>Nordisk mytologi - runer</md:title>
+  <md:abstract>I vikingetiden brugte man ikke almindelige bogstaver, som vi kender dem nu. Dengang skrev man med noget, der hed runer. Dette modul vil lære dig om runer, hvordan de blev brugt i vikingetiden, hvordan de bliver brugt i den nordiske mytologi, og hvordan du selv kan bruge dem.</md:abstract>
+  <md:uuid>497b26f5-7d29-4c3a-8454-a92a1395934f</md:uuid>
+</metadata>
+
+<content>
+
+<section id="koncept">
+<title>Hvad er runer?</title> 
+<para id="para1">
+Runer er de bogstaver, som man brugte for over 1000 år siden i Danmark. De første runer blev skrevet i jernalderen og både i vikingetiden og middelalderen brugte man runer, indtil man begyndte at bruge de bogstaver, som vi bruger nu i Danmark. 
+<newline count="1"/>
+Runer er kantede og simple at skrive, så man let kan hugge dem ud i sten eller snitte dem i træ - for i vikingetiden havde man hverken kuglepenne eller tuscher at skrive med på papir, så det skulle være let at skrive.
+<newline count="1"/>
+I den nordiske mytologi bruger man også runer til at skrive og udsmykke ting med.
+<newline count="2"/>
+Her vil du lære mere om runernes historie, hvordan du selv kan skrive med runer og hvordan du kan skrive kode-beskeder til dine venner.
+</para>
+</section>
+
+<section id="fakta">
+<title>Runerne</title>
+<para id="para2">
+Runernes form og betydning har ændret sig med tiden, men disse runer passer bedst til de bogstaver, som vi bruger i dag:
+<newline count="2"/>
+<media id="runeraa" alt="Runer fra ca. aar 1300">
+   <image mime-type="image/jpeg" src="http://www.fortidensjelling.dk/rune4a.jpg"/>
+</media>
+<newline count="1"/>
+<space count="3"/>f<space count="4"/>u<space count="3"/>th<space count="4"/>a<space count="4"/>r<space count="4"/>k<space count="4"/>g<space count="4"/>w<space count="5"/>h<space count="3"/>n<space count="2"/>i<space count="4"/>p
+<newline count="1"/>
+<media id="runerbb" alt="Runer fra ca. aar 1300">
+   <image mime-type="image/jpeg" src="http://www.fortidensjelling.dk/rune4b.jpg"/>
+</media>
+<newline count="1"/>
+<space count="3"/>a<space count="4"/>s<space count="4"/>t<space count="4"/>b<space count="4"/>e<space count="3"/>m<space count="4"/>l<space count="4"/>d<space count="4"/>y<space count="4"/>z<space count="4"/>æ<space count="4"/>ø
+<newline count="2"/>
+Kig godt på runerne og prøv at huske dem - du skal bruge dem senere!
+</para>
+</section>
+
+<section id="fakta2">
+<title>Hvor findes runer?</title>
+<para id="para3">
+I vikingetiden brugte man runer i stedet for de bogstaver, som vi kender nu, og i den nordiske mytologi bruger alle guderne og menneskerne runer til at skrive på ting med og til at pynte med. 
+<newline count="1"/>
+I dag bruger vi bogstaver, og ikke runer, til at skrive med. Så du kan ikke skrive din næste danske stil med runer, MEN du kan bruge dem til at lave hemmelige beskeder til dine venner og til at pynte dine ting med ligesom Odin og Tor gør i den nordiske mytologi.
+<newline count="2"/>
+Her kan du se billeder af hvordan man i vikingetiden brugte runer til at skrive og udsmykke ting med:
+<newline count="2"/>
+<media id="runer1" alt="Jellingestenene">
+   <image mime-type="image/jpeg" src="http://www.fortidensjelling.dk/61.jpg"/>
+</media>
+<newline count="2"/>
+<media id="runer2" alt="træpind">
+   <image mime-type="image/jpeg" src="http://www.rundtomruner.dk/billeder/maerkelap.jpg"/>
+</media>
+<newline count="2"/> 
+</para>
+</section>
+
+<section id="fakta3">
+<title>Hør runernes lyd</title>
+<para id="para4">
+Hvis du klikker på dette <link url="http://www.rundtomruner.dk/sproget.html" window="new">link</link> kan du til højre på siden høre, hvordan runer lyder, når de læses op.
+</para>
+</section>
+
+<section id="opgaver">
+<title>Kan du huske runerne?</title>
+<exercise id="opgave1">
+  <problem id="opgave1-problem">
+    <para id="opgave1-problem-para">
+      Hvad står der her:
+      <media id="runern" alt="Odin">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_o.jpg"/>
+		</media>
+		<media id="runero" alt="Odin">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_d.jpg"/>
+		</media>
+		<media id="runerp" alt="Odin">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_ij.jpg"/>
+		</media>
+		<media id="runerq" alt="Odin">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_n.jpg"/>
+		</media>
+    </para>
+  </problem>
+  <solution id="opgave1-solution">
+    <para id="opgave1-solution-para">
+      Odin
+    </para>
+  </solution>
+</exercise>
+
+<exercise id="opgave2">
+  <problem id="opgave2-problem">
+    <para id="opgave2-problem-para">
+      Hvad står der her:
+       <media id="runei" alt="Freja">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_f.jpg"/>
+		</media>
+		 <media id="runerj" alt="Freja">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_r.jpg"/>
+		</media>
+		 <media id="runerk" alt="Freja">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_e.jpg"/>
+		</media>
+      <media id="runerl" alt="Freja">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_ij.jpg"/>
+		</media>
+		 <media id="runerm" alt="Freja">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_a.jpg"/>
+		</media>
+    </para>
+  </problem>
+  <solution id="opgave2-solution">
+    <para id="opgave2-solution-para">
+      Freja
+    </para>
+  </solution>
+</exercise>
+
+<exercise id="opgave3">
+  <problem id="opgave3-problem">
+    <para id="opgave3-problem-para">
+      Hvad står der her:
+         <media id="runera" alt="Ragnarok">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_r.jpg"/>
+		</media>
+                <media id="runerb" alt="Ragnarok">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_a.jpg"/>
+		</media>
+                <media id="runerc" alt="Ragnarok">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_g.jpg"/>
+		</media>
+                <media id="runerd" alt="Ragnarok">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_n.jpg"/>
+		</media>    
+              <media id="runere" alt="Ragnarok">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_a.jpg"/>
+		</media>
+        <media id="runerf" alt="Ragnarok">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_r.jpg"/>
+		</media>
+      <media id="runerg" alt="Ragnarok">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_o.jpg"/>
+		</media>
+		      <media id="runerh" alt="Ragnarok">
+   			<image mime-type="image/jpeg" src="http://spejdernetdivers.wh.spejdernet.dk/kode/img/rune_k.jpg"/>
+		</media>
+    </para>
+  </problem>
+  <solution id="opgave3-solution">
+    <para id="opgave3-solution-para">
+      Ragnarok
+    </para>
+  </solution>
+</exercise>
+</section>
+
+<section id="fakta4">
+<title>Prøv selv...</title>
+<para id="para5">
+Hvis du følger dette <link url="http://www.spejdernet.dk/Inspiration.aspx" window="new">link</link>, kan du i bunden af siden selv oversætte almindelige bogstaver til rigtige runer.
+<newline count="1"/>
+Prøv at skrive en hilsen til dine venner, som de så skal oversætte.
+</para>
+</section>
+
+<section id="kommentar">
+<title>Tillykke!</title>
+<para id="para6">
+Tillykke, du har nu lært at skrive runer ligesom de gjorde i vikingetiden og som de gør i den nordiske mytologi!
+</para>
+</section>
+
+<section id="litteratur">
+<title>Litteratur og kilder</title>
+<list id="Hjemmesider">
+  <title>Links</title>
+  <item><link url="http://www.fortidensjelling.dk" window="new">Fortidens Jelling</link></item>
+
+  <item><link url="http://www.spejdernet.dk/Inspiration.aspx" window="new">KFUM-Spejderne i Danmark</link></item>
+
+  <item><link url="http://www.rundtomruner.dk" window="new">Rundt Om Runer</link></item>
+</list>
+</section>
+
+
+</content>
+</document>
